@@ -4,6 +4,8 @@
   "description": "Demo for progressive web app with push notifications, background sync etc.",
   "start_url": "./index.html?utm=homescreen",
   "display": "standalone",
+  "gcm_sender_id": "1039194109367",
+  "DO_NOT_CHANGE_GCM_SENDER_ID": "Do not change the GCM Sender ID",
   "orientation": "portrait",
   "background_color": "#f5f5f5",
   "theme_color": "#f5f5f5",
